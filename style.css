@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -12,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .hero-section {
@@ -32,7 +34,11 @@ section {
     border-radius: 5px;
     color: #fff;
     margin-top: 5px;
-    margin-left: 30%;
+
 
 
 }
+
+/* .hero-sec-back {
+    background-image: linear-gradient(to right, red, yellow)
+} */
