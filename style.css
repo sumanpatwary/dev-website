@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 }
@@ -34,7 +34,8 @@ section {
     border-radius: 5px;
     color: #fff;
     margin-top: 5px;
-
+    border-radius: 5px;
+    ;
 
 
 }
@@ -42,3 +43,22 @@ section {
 /* .hero-sec-back {
     background-image: linear-gradient(to right, red, yellow)
 } */
+
+.experienct-item {
+    box-shadow: 14px 10px 14px 6px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+
+}
+
+#full-stact-dev {
+    border-left: 10px solid rgb(166, 14, 241);
+
+
+}
+
+#wordpress-dev {
+    border-left: 10px solid rgb(163, 185, 37);
+
+}
